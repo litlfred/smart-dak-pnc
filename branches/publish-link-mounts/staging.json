@@ -1,0 +1,15 @@
+{
+  "branch": "claude/publish-link-mounts",
+  "sha": "a1ca316",
+  "built": "2026-11-10T19:57:47Z",
+  "pr": "3",
+  "prUrl": "https://github.com/litlfred/smart-dak-pnc/pull/3",
+  "branchUrl": "https://github.com/litlfred/smart-dak-pnc/tree/claude/publish-link-mounts",
+  "issue": null,
+  "issueUrl": null,
+  "runUrl": "https://github.com/litlfred/smart-dak-pnc/commit/a1ca316a02adbc32495060ce3de515f29fa38b93",
+  "mainSite": "https://litlfred.github.io/smart-dak-pnc/",
+  "beforeRef": "main",
+  "mainPagesKnown": false,
+  "newPages": []
+}
