@@ -7,7 +7,7 @@
     "versions"
   ],
   "provisionalUntil": "a full IG Publisher run",
-  "generatedAt": "2026-11-10T19:21:35.640354211Z",
+  "generatedAt": "2026-11-10T22:50:13.262312614Z",
   "ig": {
     "root": ".",
     "version": "4.0.1"
@@ -17,7 +17,7 @@
   },
   "inputs": {
     "toolchain": "ig-publisher 3.0.0 / core 7.0.1",
-    "sourceRevision": "2daa73136d2fd5cfaab437313cbd3b624a67613c",
+    "sourceRevision": "900e5c77984f6fc2a5d8f8c376f4e993d08fc3b0",
     "inputDigest": "511b75d0edba7d9a8f51394ff515b69b46df0d56dab0bc8a5b1bc16063cfdbc0"
   },
   "packages": [
@@ -154,7 +154,7 @@
       "resourceType": "ImplementationGuide",
       "id": "smart.who.int.dak-pnc",
       "name": "DAKPnc",
-      "file": "resources/ImplementationGuide/smart.who.int.dak-pnc--0d315c02.json",
+      "file": "resources/ImplementationGuide/smart.who.int.dak-pnc.json",
       "source": "fsh-generated/resources/ImplementationGuide-smart.who.int.dak-pnc.json"
     }
   ]
