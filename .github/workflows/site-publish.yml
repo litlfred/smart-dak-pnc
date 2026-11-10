@@ -112,6 +112,17 @@ jobs:
             [ -f "$d/package.json" ] && (cd "$d" && bun install --no-save)
           done
 
+      - name: Install the browser render:bpmn uses
+        # bpmn-js renders in Chromium. The root's own Playwright installs it, so
+        # the build is the one it expects, as cat-harness-tools' layer-pr-checks.yml
+        # does ("Executable doesn't exist at .../chromium_headless_shell-1243").
+        run: |
+          if [ -x node_modules/.bin/playwright ]; then
+            node_modules/.bin/playwright install --with-deps chromium
+          else
+            echo "no playwright in the root node_modules: no browser installed"
+          fi
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
