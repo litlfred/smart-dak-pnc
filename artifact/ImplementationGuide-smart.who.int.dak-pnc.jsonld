@@ -21,7 +21,7 @@
     {
       "@type": "schema:MediaObject",
       "schema:contentUrl": {
-        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-pnc/769b2011b755ee8b880ca4eb10807daa81318975/resources/ImplementationGuide/smart.who.int.dak-pnc--0d315c02.json"
+        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-pnc/bee2d982eac1d4ad825f9156f097ad987ee4b445/resources/ImplementationGuide/smart.who.int.dak-pnc.json"
       },
       "schema:encodingFormat": "application/fhir+json",
       "dcterms:source": "local"
@@ -30,7 +30,7 @@
   "prov:wasGeneratedBy": {
     "@type": "prov:Activity",
     "schema:instrument": "ig-publisher 3.0.0 / core 7.0.1",
-    "prov:used": "2daa73136d2fd5cfaab437313cbd3b624a67613c"
+    "prov:used": "900e5c77984f6fc2a5d8f8c376f4e993d08fc3b0"
   },
   "dcterms:isPartOf": {
     "@type": "fhir:ImplementationGuide",
