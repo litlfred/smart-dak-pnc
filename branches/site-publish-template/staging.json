@@ -1,0 +1,17 @@
+{
+  "branch": "claude/site-publish-template",
+  "sha": "4889442",
+  "built": "2026-11-10T21:05:07Z",
+  "pr": "4",
+  "prUrl": "https://github.com/litlfred/smart-dak-pnc/pull/4",
+  "branchUrl": "https://github.com/litlfred/smart-dak-pnc/tree/claude/site-publish-template",
+  "issue": null,
+  "issueUrl": null,
+  "runUrl": "https://github.com/litlfred/smart-dak-pnc/commit/4889442adf1d03b9d67e4833d72c84e4f4324b78",
+  "mainSite": "https://litlfred.github.io/smart-dak-pnc/",
+  "beforeRef": "main",
+  "mainPagesKnown": true,
+  "newPages": [
+    "review/index.html"
+  ]
+}
