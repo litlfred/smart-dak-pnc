@@ -25,6 +25,9 @@
       "dcterms:description": "SMART DAK for postnatal care (PNC)",
       "schema:sameAs": {
         "@id": "http://smart.who.int/dak-pnc/ImplementationGuide/smart.who.int.dak-pnc"
+      },
+      "schema:contentUrl": {
+        "@id": "../ImplementationGuide-smart.who.int.dak-pnc.json"
       }
     }
   ]

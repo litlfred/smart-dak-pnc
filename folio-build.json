@@ -7,9 +7,9 @@
   "source": {
     "repo": "litlfred/smart-dak-pnc",
     "ref": "main",
-    "commit": "900e5c77984f6fc2a5d8f8c376f4e993d08fc3b0"
+    "commit": "253a601c048441bdd91e8383a0fa868568c7ccbc"
   },
-  "builtAt": "2026-11-10T22:53:54.417Z",
+  "builtAt": "2026-11-10T23:39:45.577Z",
   "ast": {
     "commit": "900e5c77984f6fc2a5d8f8c376f4e993d08fc3b0",
     "verdict": "valid",
