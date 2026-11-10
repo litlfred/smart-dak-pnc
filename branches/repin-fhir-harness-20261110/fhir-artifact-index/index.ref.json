@@ -1,0 +1,7 @@
+{
+  "$schema": "fhir-artifact-index-ref/v1",
+  "index": "https://raw.githubusercontent.com/litlfred/smart-dak-pnc/bee2d982eac1d4ad825f9156f097ad987ee4b445/fhir-artifact-index/index.json",
+  "base": "https://raw.githubusercontent.com/litlfred/smart-dak-pnc/bee2d982eac1d4ad825f9156f097ad987ee4b445/",
+  "repository": "litlfred/smart-dak-pnc",
+  "commit": "bee2d982eac1d4ad825f9156f097ad987ee4b445"
+}

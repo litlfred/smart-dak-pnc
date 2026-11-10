@@ -1,0 +1,21 @@
+{
+  "branch": "claude/repin-fhir-harness-20261110",
+  "sha": "f9d4ece",
+  "built": "2026-11-10T23:33:43Z",
+  "pr": "6",
+  "prUrl": "https://github.com/litlfred/smart-dak-pnc/pull/6",
+  "branchUrl": "https://github.com/litlfred/smart-dak-pnc/tree/claude/repin-fhir-harness-20261110",
+  "issue": null,
+  "issueUrl": null,
+  "runUrl": "https://github.com/litlfred/smart-dak-pnc/commit/f9d4ececd4dd6df6b4cf9272a08514147b450830",
+  "mainSite": "https://litlfred.github.io/smart-dak-pnc/",
+  "beforeRef": "main",
+  "mainPagesKnown": true,
+  "newPages": [
+    "cat-harness/processes/ig-release.html",
+    "cat-harness/processes/skills/ig-binary-artefacts.html",
+    "en/cat-harness/processes/ig-release.html",
+    "en/cat-harness/processes/skills/ig-binary-artefacts.html",
+    "review/index.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "http://smart.who.int/dak-pnc/ImplementationGuide/smart.who.int.dak-pnc",
+  "name": "DAKPnc",
+  "title": "SMART DAK PNC",
+  "description": "SMART DAK for postnatal care (PNC)",
+  "status": "draft",
+  "package-id": "smart.who.int.dak-pnc",
+  "ig-ver": "0.9.9",
+  "date": "Tue, 10 Nov, 2026 22:48:45 +0000",
+  "dateISO8601": "2026-11-10T22:48:45+00:00",
+  "errs": 2,
+  "warnings": 18,
+  "hints": 1,
+  "broken-links": 0,
+  "suppressed-hints": 0,
+  "suppressed-warnings": 0,
+  "version": "4.0.1",
+  "tool": "6.0.0-snapshot1 (3)",
+  "maxMemory": 1777308296
+}
