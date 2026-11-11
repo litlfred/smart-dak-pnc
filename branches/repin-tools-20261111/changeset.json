@@ -1,0 +1,1 @@
+{"$schema":"folio-changeset/v1","folio":"input/pagecontent","base":{"ref":"main","commit":"253a601c048441bdd91e8383a0fa868568c7ccbc"},"head":{"ref":"worktree","commit":"102ab5dad3cba2d489347121a3f3b76a7ce5f06b"},"summary":{"added":0,"removed":0,"changed":0,"unchanged":120,"renamed":0,"prose":0,"manifest":0,"moved":0},"changes":[]}

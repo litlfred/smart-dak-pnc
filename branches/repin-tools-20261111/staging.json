@@ -1,0 +1,17 @@
+{
+  "branch": "claude/repin-tools-20261111",
+  "sha": "102ab5d",
+  "built": "2026-11-11T00:10:07Z",
+  "pr": "7",
+  "prUrl": "https://github.com/litlfred/smart-dak-pnc/pull/7",
+  "branchUrl": "https://github.com/litlfred/smart-dak-pnc/tree/claude/repin-tools-20261111",
+  "issue": null,
+  "issueUrl": null,
+  "runUrl": "https://github.com/litlfred/smart-dak-pnc/commit/102ab5dad3cba2d489347121a3f3b76a7ce5f06b",
+  "mainSite": "https://litlfred.github.io/smart-dak-pnc/",
+  "beforeRef": "main",
+  "mainPagesKnown": true,
+  "newPages": [
+    "review/index.html"
+  ]
+}
