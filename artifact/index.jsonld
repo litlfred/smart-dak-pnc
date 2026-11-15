@@ -17,7 +17,7 @@
   "schema:numberOfItems": 1,
   "schema:hasPart": [
     {
-      "@id": "ImplementationGuide-smart.who.int.dak-pnc.jsonld",
+      "@id": "ImplementationGuide-smart.who.int.dak-pnc",
       "@type": "fhir:ImplementationGuide",
       "dcterms:identifier": "ImplementationGuide/smart.who.int.dak-pnc",
       "dcterms:title": "SMART DAK PNC",
