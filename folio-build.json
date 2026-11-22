@@ -2,14 +2,14 @@
   "$schema": "folio-site-build/v1",
   "instance": "smart-dak-pnc",
   "platform": {
-    "commit": "6d48e106ffd75e4a49bc466068e5f1df1d5d3e2e"
+    "commit": "4026199a2a73b0dd7c83114cdd706684c558b902"
   },
   "source": {
     "repo": "litlfred/smart-dak-pnc",
     "ref": "main",
-    "commit": "2901681ad5e8722b9093d8c8a26e335152290e67"
+    "commit": "965d5214206e961efa5b5696b523c0f39f7972ca"
   },
-  "builtAt": "2026-11-22T00:40:51.943Z",
+  "builtAt": "2026-11-22T22:19:47.511Z",
   "ast": {
     "commit": "900e5c77984f6fc2a5d8f8c376f4e993d08fc3b0",
     "verdict": "valid",
